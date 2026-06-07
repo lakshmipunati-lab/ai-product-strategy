@@ -1,19 +1,22 @@
 # The Prototype Bet
 
 ## What I Built
-<!-- One sentence: what does this prototype demonstrate? -->
+ReleaseIQ — a one-page web app where PMs and QA engineers paste a feature spec and get a categorized QA test plan (happy path, edge cases, regression, compliance) ready to export.
 
 ## Tool Used
-<!-- v0 / Cursor / Lovable / other -->
+Cursor
 
 ## Prototype Link
-<!-- Paste the shareable URL -->
+<!-- Deploy: cd prototype/releaseiq && npx vercel -->
+<!-- Paste the shareable URL after deploying -->
 
 ## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
+Automator
 
 ## The Bet in One Sentence
-<!-- What you're building, for whom, why now -->
+BlackRock direct indexing PMs and QA engineers can turn any feature spec into an executable, compliance-aware test plan in seconds — collapsing a manual multi-hour workflow into a single AI-assisted step.
 
 ## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? -->
+- QA engineers reject generated test cases as too generic to be useful (>50% require full rewrite)
+- PMs don't adopt because spec-to-test-plan doesn't fit their release workflow
+- Enterprise AI mandate standardizes a competing tool before ReleaseIQ reaches pilot
